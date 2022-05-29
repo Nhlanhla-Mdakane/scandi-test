@@ -20,7 +20,8 @@ function App() {
 
         <Route path="/" caseSensitive={false} element={<Home  />} />
 
-         <Route path="/add" caseSensitive={false} element={<AddProducts  />} />
+         <Route path="/add-product" caseSensitive={false} element={<AddProducts  />} />
+
 
 
     </Routes>
